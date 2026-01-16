@@ -14,5 +14,6 @@ $runner = new ConsoleApplicationRunner(
     debug: Environment::appDebug(),
     checkEvents: Environment::appDebug(),
     environment: Environment::appEnv(),
+    vendorDirectory: Egm\Composer::vendorDir()
 );
 $runner->run();
