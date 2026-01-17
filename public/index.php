@@ -55,5 +55,6 @@ $runner = new HttpApplicationRunner(
         ),
         new HtmlRenderer(),
     ),
+    vendorDirectory: \Egm\Composer::vendorDir()
 );
 $runner->run();

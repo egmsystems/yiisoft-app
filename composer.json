@@ -9,12 +9,12 @@
     ],
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/app/issues?state=open",
-        "source": "https://github.com/yiisoft/app",
-        "forum": "https://www.yiiframework.com/forum/",
-        "wiki": "https://www.yiiframework.com/wiki/",
+        "issues": "https://github.com/egmsystems/yiisoft-app/issues?state=open",
+        "source": "https://github.com/egmsystems/yiisoft-app",
+        "forum": "https://egmsystems.net/forum/",
+        "wiki": "https://egmsystems.net/wiki/",
         "irc": "ircs://irc.libera.chat:6697/yii",
-        "chat": "https://t.me/yii3en"
+        "chat": "https://t.me/egmsystems"
     },
     "funding": [
         {
@@ -75,7 +75,7 @@
         "codeception/module-cli": "^2.0.1",
         "codeception/module-phpbrowser": "^3.0.2",
         "friendsofphp/php-cs-fixer": "^3.92.5",
-        "phpunit/phpunit": "^11.5.47",
+        "phpunit/phpunit": "^11.5.48",
         "rector/rector": "^2.3.1",
         "roave/infection-static-analysis-plugin": "^1.43",
         "roave/security-advisories": "dev-latest",
